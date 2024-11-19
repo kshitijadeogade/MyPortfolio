@@ -52,8 +52,8 @@
 	    <a href="#education">Education</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
-	    
-        </nav>
+	    <a href="#internships">Internships</a>
+	</nav>
     </header>
 
     <section id="about" style="overflow:auto">
@@ -100,6 +100,21 @@
 	</ol>   
         </ul>
     </section>
+
+	 </section>
+	<section id="internships">
+        <h2>Internships</h2>
+        <p>
+	<ol>
+	<li>AWS CLOUD VIRTUAL INTERNSHIP (Oct 2024 - Present)</li><br>
+	<li>DATA ANALYST VIRTUAL INTERNSHIP at KULTUREHIRE (Oct 2024 - Present)</li><br>
+	<li>MACHINE LEARNING INTERN at Feynn Labs Services (Sept 2024 - Present)</li><br>
+	<li>GOGGLE VIRTUAL AI-ML INTERNSHIP (July 2024 - Sept 2024)</li><br>
+	<li>MACHINE LEARNING INTERNSHIP at Atharvo (Jun 2024 - Jul 2024)</li><br>
+	</ol>
+</p>
+    </section>
+
 	
 
     <section id="contact">

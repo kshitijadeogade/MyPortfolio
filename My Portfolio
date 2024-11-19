@@ -73,6 +73,12 @@
     <section id="projects">
         <h2>Projects</h2>
         <p>Here are some of my recent projects:</p>
+	<ul>
+	    <li>MySQL Project:</li>
+	<ol>
+	    <li>Supply Chain Management System</li>
+	</ol>   
+        </ul>
         <ul>
             <li>Python Projects:</li>
 	<ol>
